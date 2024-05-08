@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI.
 
 [![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 
