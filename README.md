@@ -2,6 +2,7 @@
 
 Making games since 2023, using ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
+
 ### [Gentoo Games](https://store.steampowered.com/search/?developer=Gentoo%20Games)
 
 : Link to my studio
