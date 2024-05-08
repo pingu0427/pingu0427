@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
