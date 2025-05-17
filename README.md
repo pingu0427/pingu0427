@@ -15,8 +15,7 @@
 [![](https://img.shields.io/badge/PLAYSTYLE-Polyomino_+_Resource_Management-green?style=for-the-badge)]()  
 [![](https://img.shields.io/badge/GENRE-Roguelite__Survival__Puzzle-yellow?style=for-the-badge)]()
 
-🧪 Early prototype in development · Planned Steam EA in 2025  
-🧩 Featuring procedurally generated maps, adjacency bonuses, and turn-based resource survival  
+Early prototype in development · Planned Steam EA in 2025  
 
 ---
 
