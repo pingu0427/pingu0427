@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sunha Yoo</h1>
 <p align="center">
-  🎮 Making games since 2023 — Indie developer using <strong>Godot Engine</strong>, <strong>Unity</strong>, and <strong>Aseprite</strong><br>
+  🎮 Making games since 2023 — Indie developer using <strong>Godot Engine</strong><br>
   🧠 Always learning
 </p>
 
