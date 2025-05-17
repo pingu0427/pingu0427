@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Sunha (a.k.a. pingu0427)</h1>
+<h1 align="center">👋 Hi, I'm Sunha Yoo</h1>
 <p align="center">
-  🎮 Making games since 2023 — Indie developer using <strong>Godot Engine</strong><br>
-  🧠 Former competitive programmer · Current pixel-pusher · Always learning
+  🎮 Making games since 2023 — Indie developer using <strong>Godot Engine</strong>, <strong>Unity</strong>, and <strong>Aseprite</strong><br>
+  🧠 Always learning
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🛠️ Currently Working On
 
 ### 🌱 [Terrafarmer](https://github.com/pingu0427/Terrafarmer) — Roguelite Terraforming Puzzle
-> A retrofuturistic survival game where you’re a disposable convict trying to grow potatoes on Mars  
+> A retrofuturistic survival game where you’re a disposable convict trying to grow potatoes on alien planets  
 > Powered by Godot · Low-poly vector visuals · Polyomino-based farming system
 
 [![](https://img.shields.io/badge/PLAYSTYLE-Polyomino_+_Resource_Management-green?style=for-the-badge)]()  
@@ -36,15 +36,14 @@ Check out my previously released and upcoming projects!
 
 ## 🧰 Tools I Use
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%233565F3.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%233565F3.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-%2310110F.svg?style=for-the-badge&logo=gitkraken&logoColor=green)
+![Godot Engine](https://img.shields.io/badge/Godot-%233565F3.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=black)
 
 ---
 
 ## ✉️ Let's Connect
 
-Feel free to reach out or follow my dev journey!  
-💡 *I'm open to collaboration, feedback, and cool conversations.*
+💡 *I'm open to collaboration, feedback, and cool conversations.*  
+📧 **Email:** [sunha2300@gmail.com](mailto:sunha2300@gmail.com)
 
