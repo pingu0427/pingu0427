@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sunha Yoo</h1>
+<h1 align="center">Hi, I'm Sunha Yoo</h1>
 <p align="center">
   🎮 Making games since 2023 — Indie developer using <strong>Godot Engine</strong><br>
   🧠 Always learning
