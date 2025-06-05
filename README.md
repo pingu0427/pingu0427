@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sunha Yoo</h1>
-<p align="center">
+<h1>Hi, I'm Sunha Yoo</h1>
+<p">
   🎮 Making games since 2023 — Indie developer using <strong>Godot Engine</strong><br>
   🧠 Always learning
 </p>
@@ -44,5 +44,5 @@ Check out my previously released and upcoming projects!
 ## ✉️ Let's Connect
 
 💡 *I'm open to collaboration, feedback, and cool conversations.*  
-📧 **Email:** [sunha2300@gmail.com](mailto:sunha2300@gmail.com)
+📧 **Email:** [markyoodev@gmail.com](mailto:markyoodev@gmail.com)
 
