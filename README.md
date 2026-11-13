@@ -1,3 +1,20 @@
+I'm an indie game developer.
+
+Currently, I'm developing **[Terrafarmer](https://store.steampowered.com/app/3835080/Terrafarmer/)**, a solo-developed strategy game built with Godot Engine. I work across the entire development process, from game design and system planning to gameplay programming, UI implementation and art design.
+
+### Interests
+- Systems Design & Game Economy
+- Gameplay Mechanics & Balancing
+- Roguelikes, Incremental Games & Strategy Games
+- Game Prototyping and Iterative Development
+
+### Tech Stack
+- **Engine:** Godot
+- **Languages:** GDScript
+
+### Education
+- B.S. in Mechanical Engineering, Seoul National University (Expected February 2027)
+
 ## Terrafarmer
 
 **A spatial strategy game with Sci-Fi farming theme, resource management, and making the most of limited space.**
