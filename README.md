@@ -1,6 +1,6 @@
 I'm an indie game developer.
 
-Currently, I'm developing **[Terrafarmer](https://store.steampowered.com/app/3835080/Terrafarmer/)**, a solo-developed strategy game built with Godot Engine. I work across the entire development process, from game design and system planning to gameplay programming, UI implementation and art design.
+Currently, I'm developing **[Terrafarmer](https://store.steampowered.com/app/3835080/Terrafarmer/)**, a solo-developed strategy game built with ![Godot Engine](https://shields.io). I work across the entire development process, from game design and system planning to gameplay programming, UI implementation and art design.
 
 ### Interests
 - Systems Design & Game Economy
