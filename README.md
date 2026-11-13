@@ -1,11 +1,32 @@
-## TerraFarmer
+## Terrafarmer
 
-**Godot Engine으로 개발 중인 1인 제작 공간 배치 전략 게임입니다.** 9×9 농장에 작물 타일을 배치하고, 매 수확 무작위로 결정되는 날씨의 활성 영역에서 Credit을 생산합니다. 새 작물이 들어갈 공간과 생산 기회를 함께 고려하는 것이 핵심입니다.
+**A spatial strategy game with Sci-Fi farming theme, resource management, and making the most of limited space.**
 
-- **공간 전략:** 다섯 작물·일곱 테트로미노 모양의 드래프트, 배치 확정과 Dig Up을 통한 공간 교체.
-- **진행 선택:** 5회 또는 2회 수확 라운드, Sample 보상, 라운드 종료 시 Credit 이자.
-- **판단을 돕는 UI:** 날씨 패턴·확률, 수확 1회당 보상 표, 작물 툴팁과 드래프트 중 보드 확인.
-- **담당:** 게임 기획, 시스템 디자인, GDScript 게임플레이 구현, UI·시각 피드백 연결.
-- **기술 스택:** Godot 4.6 계열, GDScript, TileMapLayer, Signal, 시드 기반 난수 스트림.
+[![Steam](https://img.shields.io/badge/Steam-View%20Game-000000?logo=steam&logoColor=white)](https://store.steampowered.com/app/3835080/Terrafarmer/)
 
-현재 핵심 루프를 구현한 실험 프로토타입입니다. 유물 구매는 계획 단계이며, 일반 진행의 자원 소비와 자동 승패 판정은 연결되어 있지 않습니다.
+Terrafarmer is a solo-developed rouge-like strategy game built with Godot Engine. Players arrange crop tiles on a 9×9 farm and generate Credits through harvests, based on randomly determined weather patterns on the board and their active areas.
+
+The core challenge is balancing available space, crop placement, and production opportunities as the farm evolves.
+
+### Core Gameplay Systems
+
+- **Spatial Strategy:** Draft from five crop types and seven tetromino shapes. Manage limited farm space through placement decisions and *Dig Up* actions that allow existing space to be replaced.
+- **Round & Resource Management:** Choose between rounds of 5 or 2 harvests, earn Samples through harvesting, and receive Credit interest at the end of each round.
+- **Weather & Production:** Each harvest randomly determines the active area of the current weather pattern, affecting which crops generate Credits.
+- **Information-Driven Decisions:** Weather patterns and probabilities, per-harvest reward breakdowns, crop tooltips, and board inspection during drafting help players make informed decisions.
+
+### My Role
+
+Solo Developer — responsible for:
+- Game Design & Systems Design
+- Gameplay Programming (GDScript)
+- UI Implementation & Visual Feedback
+
+### Technical Stack
+
+- **Engine:** Godot 4.6
+- **Language:** GDScript
+
+### Development Status
+
+The core gameplay loop is currently implemented as an experimental prototype.
